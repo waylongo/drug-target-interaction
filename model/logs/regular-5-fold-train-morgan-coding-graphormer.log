@@ -1,0 +1,43 @@
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 3.8843  avg_val_loss: 2.4670  time: 23319s
+Epoch 2 - avg_train_loss: 2.3895  avg_val_loss: 2.6389  time: 24355s
+Epoch 3 - avg_train_loss: 2.2678  avg_val_loss: 2.2566  time: 23960s
+Epoch 4 - avg_train_loss: 2.1918  avg_val_loss: 2.3626  time: 23577s
+Epoch 5 - avg_train_loss: 2.1482  avg_val_loss: 2.2351  time: 23762s
+========== fold: 0 result ==========
+MSE loss: 2.2351
+========== fold: 1 training ==========
+Epoch 1 - avg_train_loss: 3.9365  avg_val_loss: 2.2975  time: 23155s
+Epoch 2 - avg_train_loss: 2.3976  avg_val_loss: 2.2250  time: 25698s
+Epoch 3 - avg_train_loss: 2.2771  avg_val_loss: 2.2049  time: 25994s
+Epoch 4 - avg_train_loss: 2.1978  avg_val_loss: 2.1930  time: 26373s
+Epoch 5 - avg_train_loss: 2.1489  avg_val_loss: 2.1863  time: 24248s
+========== fold: 1 result ==========
+MSE loss: 2.1863
+========== fold: 2 training ==========
+Epoch 1 - avg_train_loss: 3.8560  avg_val_loss: 3.1323  time: 25453s
+Epoch 2 - avg_train_loss: 2.3891  avg_val_loss: 2.2578  time: 24300s
+Epoch 3 - avg_train_loss: 2.2760  avg_val_loss: 2.2061  time: 28517s
+Epoch 4 - avg_train_loss: 2.2021  avg_val_loss: 2.1844  time: 26413s
+Epoch 5 - avg_train_loss: 2.1584  avg_val_loss: 2.1650  time: 25130s
+========== fold: 2 result ==========
+MSE loss: 2.1650
+========== fold: 3 training ==========
+Epoch 1 - avg_train_loss: 3.9392  avg_val_loss: 2.3374  time: 27571s
+Epoch 2 - avg_train_loss: 2.3758  avg_val_loss: 2.5751  time: 24310s
+Epoch 3 - avg_train_loss: 2.2582  avg_val_loss: 2.2139  time: 27869s
+Epoch 4 - avg_train_loss: 2.1886  avg_val_loss: 2.2010  time: 24310s
+Epoch 5 - avg_train_loss: 2.1463  avg_val_loss: 2.1928  time: 24883s
+========== fold: 3 result ==========
+MSE loss: 2.1928
+========== fold: 4 training ==========
+Epoch 1 - avg_train_loss: 3.8552  avg_val_loss: 2.2992  time: 27231s
+Epoch 2 - avg_train_loss: 2.3887  avg_val_loss: 2.2522  time: 27452s
+Epoch 3 - avg_train_loss: 2.2695  avg_val_loss: 2.1927  time: 26860s
+Epoch 4 - avg_train_loss: 2.1950  avg_val_loss: 2.2389  time: 25260s
+Epoch 5 - avg_train_loss: 2.1513  avg_val_loss: 2.1874  time: 31132s
+========== fold: 4 result ==========
+MSE loss: 2.1874
+========== CV ==========
+MSE loss: 2.1933
+========== All finished ==========

@@ -1,6 +1,9 @@
 data/
 processed_data/
 preprocess/
+Graphormer/
 refs/
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
+*.npy
+*.pkl

@@ -1,0 +1,68 @@
+========== fold: 0 training ==========
+Epoch 1 - avg_train_loss: 5.4222  avg_val_loss: 3.4058  time: 55s
+Epoch 2 - avg_train_loss: 2.6223  avg_val_loss: 2.4148  time: 56s
+Epoch 3 - avg_train_loss: 2.3195  avg_val_loss: 2.2903  time: 56s
+Epoch 4 - avg_train_loss: 2.2542  avg_val_loss: 2.3007  time: 56s
+Epoch 5 - avg_train_loss: 2.2078  avg_val_loss: 2.2261  time: 56s
+Epoch 6 - avg_train_loss: 2.1697  avg_val_loss: 2.2478  time: 57s
+Epoch 7 - avg_train_loss: 2.1423  avg_val_loss: 2.2067  time: 57s
+Epoch 8 - avg_train_loss: 2.1239  avg_val_loss: 2.1998  time: 57s
+Epoch 9 - avg_train_loss: 2.1085  avg_val_loss: 2.1935  time: 57s
+Epoch 10 - avg_train_loss: 2.0999  avg_val_loss: 2.1921  time: 56s
+========== fold: 0 result ==========
+MSE loss: 2.1921
+========== fold: 1 training ==========
+Epoch 1 - avg_train_loss: 5.4588  avg_val_loss: 2.9904  time: 56s
+Epoch 2 - avg_train_loss: 2.6572  avg_val_loss: 2.7722  time: 56s
+Epoch 3 - avg_train_loss: 2.3559  avg_val_loss: 2.4075  time: 56s
+Epoch 4 - avg_train_loss: 2.2720  avg_val_loss: 2.2576  time: 56s
+Epoch 5 - avg_train_loss: 2.2200  avg_val_loss: 2.1758  time: 56s
+Epoch 6 - avg_train_loss: 2.1836  avg_val_loss: 2.2525  time: 56s
+Epoch 7 - avg_train_loss: 2.1660  avg_val_loss: 2.1716  time: 56s
+Epoch 8 - avg_train_loss: 2.1308  avg_val_loss: 2.1563  time: 56s
+Epoch 9 - avg_train_loss: 2.1155  avg_val_loss: 2.1577  time: 56s
+Epoch 10 - avg_train_loss: 2.1066  avg_val_loss: 2.1559  time: 56s
+========== fold: 1 result ==========
+MSE loss: 2.1559
+========== fold: 2 training ==========
+Epoch 1 - avg_train_loss: 5.9129  avg_val_loss: 2.9298  time: 56s
+Epoch 2 - avg_train_loss: 2.7052  avg_val_loss: 2.4449  time: 56s
+Epoch 3 - avg_train_loss: 2.3741  avg_val_loss: 2.6307  time: 56s
+Epoch 4 - avg_train_loss: 2.2953  avg_val_loss: 2.2217  time: 56s
+Epoch 5 - avg_train_loss: 2.2328  avg_val_loss: 2.1766  time: 56s
+Epoch 6 - avg_train_loss: 2.1906  avg_val_loss: 2.1650  time: 56s
+Epoch 7 - avg_train_loss: 2.1672  avg_val_loss: 2.1431  time: 56s
+Epoch 8 - avg_train_loss: 2.1431  avg_val_loss: 2.1601  time: 56s
+Epoch 9 - avg_train_loss: 2.1276  avg_val_loss: 2.1352  time: 56s
+Epoch 10 - avg_train_loss: 2.1177  avg_val_loss: 2.1356  time: 56s
+========== fold: 2 result ==========
+MSE loss: 2.1356
+========== fold: 3 training ==========
+Epoch 1 - avg_train_loss: 5.7102  avg_val_loss: 3.0794  time: 56s
+Epoch 2 - avg_train_loss: 2.6907  avg_val_loss: 2.3519  time: 56s
+Epoch 3 - avg_train_loss: 2.3799  avg_val_loss: 2.4931  time: 56s
+Epoch 4 - avg_train_loss: 2.2769  avg_val_loss: 2.6876  time: 56s
+Epoch 5 - avg_train_loss: 2.2265  avg_val_loss: 2.2017  time: 56s
+Epoch 6 - avg_train_loss: 2.1958  avg_val_loss: 2.1850  time: 56s
+Epoch 7 - avg_train_loss: 2.1577  avg_val_loss: 2.2920  time: 57s
+Epoch 8 - avg_train_loss: 2.1328  avg_val_loss: 2.1771  time: 56s
+Epoch 9 - avg_train_loss: 2.1169  avg_val_loss: 2.1709  time: 56s
+Epoch 10 - avg_train_loss: 2.1066  avg_val_loss: 2.1679  time: 57s
+========== fold: 3 result ==========
+MSE loss: 2.1679
+========== fold: 4 training ==========
+Epoch 1 - avg_train_loss: 5.4860  avg_val_loss: 2.9219  time: 56s
+Epoch 2 - avg_train_loss: 2.6013  avg_val_loss: 2.3852  time: 56s
+Epoch 3 - avg_train_loss: 2.3436  avg_val_loss: 2.2592  time: 56s
+Epoch 4 - avg_train_loss: 2.2503  avg_val_loss: 2.2452  time: 56s
+Epoch 5 - avg_train_loss: 2.2431  avg_val_loss: 2.2212  time: 56s
+Epoch 6 - avg_train_loss: 2.1804  avg_val_loss: 2.1854  time: 56s
+Epoch 7 - avg_train_loss: 2.1660  avg_val_loss: 2.1705  time: 56s
+Epoch 8 - avg_train_loss: 2.1409  avg_val_loss: 2.1810  time: 56s
+Epoch 9 - avg_train_loss: 2.1208  avg_val_loss: 2.1657  time: 56s
+Epoch 10 - avg_train_loss: 2.1139  avg_val_loss: 2.1596  time: 56s
+========== fold: 4 result ==========
+MSE loss: 2.1596
+========== CV ==========
+MSE loss: 2.1622
+========== All finished ==========
